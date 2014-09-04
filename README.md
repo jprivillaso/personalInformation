@@ -1,4 +1,4 @@
-personalInformation
+Personal Information
 ===================
 
 Personal information and Certifications
